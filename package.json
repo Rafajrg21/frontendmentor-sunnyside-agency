@@ -1,0 +1,15 @@
+{
+  "name": "sunnyside-agency-landing-page-main",
+  "version": "1.0.0",
+  "description": "My take on the sunnyside agency landing page challenge of Frontend Mentor",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": "https://github.com/Rafajrg21/frontendmentor-sunnyside-agency.git",
+  "author": "Rafael Romero <rafajrg21@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
